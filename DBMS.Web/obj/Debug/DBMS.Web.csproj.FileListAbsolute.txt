@@ -1,0 +1,13 @@
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Web\bin\DBMS.Web.dll.config
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Web\bin\DBMS.Web.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Web\bin\DBMS.Web.pdb
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Web\obj\Debug\DBMS.Web.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Web\obj\Debug\DBMS.Web.pdb
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Web\bin\System.Web.Helpers.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Web\bin\System.Web.Mvc.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Web\bin\System.Web.Razor.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Web\bin\System.Web.WebPages.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Web\bin\System.Web.WebPages.Razor.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Web\obj\Debug\DBMS.Web.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Model\bin\Debug\DBMS.Model.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Model\bin\Debug\DBMS.Model.pdb
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Model\obj\Debug\DBMS.Model.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Model\obj\Debug\DBMS.Model.pdb
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Model\obj\Debug\DBMS.Model.csprojResolveAssemblyReference.cache

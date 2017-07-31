@@ -1,0 +1,4 @@
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Service\bin\Debug\DBMS.Service.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Service\bin\Debug\DBMS.Service.pdb
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Service\obj\Debug\DBMS.Service.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Service\obj\Debug\DBMS.Service.pdb

@@ -1,0 +1,16 @@
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Repository\obj\Debug\DBMS.Repository.csprojResolveAssemblyReference.cache
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Repository\bin\Debug\DBMS.Repository.dll.config
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Repository\bin\Debug\DBMS.Repository.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Repository\bin\Debug\DBMS.Repository.pdb
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Repository\bin\Debug\Dapper.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Repository\bin\Debug\DapperExtensions.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Repository\bin\Debug\DBMS.Model.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Repository\bin\Debug\EntityFramework.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Repository\bin\Debug\DBMS.Model.pdb
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Repository\bin\Debug\Dapper.xml
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Repository\bin\Debug\DapperExtensions.pdb
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Repository\bin\Debug\EntityFramework.xml
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Repository\obj\Debug\DBMS.Repository.dll
+D:\Project\Project\myproject\DataBaseManageSystem\DBMS.Repository\obj\Debug\DBMS.Repository.pdb
